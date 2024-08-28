@@ -12,7 +12,7 @@
 You can install **StayActive** using Homebrew:
 
 ```bash
-brew tap yourusername/stay-active
+brew tap pinkynrg/stay-active
 brew install stay-active
 ```
 
